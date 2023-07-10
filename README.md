@@ -1,2 +1,2 @@
 # License_Plate_Detector
-UCSD Summer Program for Incoming Students 2022 (2022) Final Project: Detecting License Plates
+UCSD Summer Program for Incoming Students 2022 (2022) Final Project: Detecting and Reading License Plates
